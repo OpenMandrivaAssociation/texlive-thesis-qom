@@ -1,6 +1,6 @@
 Name:		texlive-thesis-qom
 Version:	63524
-Release:	1
+Release:	2
 Summary:	Thesis style of the University of Qom, Iran
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-qom

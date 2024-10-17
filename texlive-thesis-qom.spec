@@ -3,7 +3,7 @@ Version:	63524
 Release:	2
 Summary:	Thesis style of the University of Qom, Iran
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-qom
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thesis-qom
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-qom.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thesis-qom.doc.r%{version}.tar.xz
